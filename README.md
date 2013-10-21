@@ -21,3 +21,5 @@ Try `rake install\['phase'\]` instead if you have problems with zsh.
 - Read `alt` property of photos and add it below photos.
 - Built-in [Fancybox](http://fancyapps.com/fancybox/) enables you to show your works easily.
 - Resize HTML5 `video` and embedded video like `iframe`, `object` to page width automatically.
+- 
+test
